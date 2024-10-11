@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DJchicken899
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me: email me at: encryptedevelopment@gmail.com
+- 😄 Pronouns: he/him
